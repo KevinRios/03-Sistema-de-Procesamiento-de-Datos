@@ -1,2 +1,2 @@
-# 03-Sistema-de-Procesamiento-de-Datos
-Sistema de Procesamiento de Datos
+# spd
+Material de la materia: Sistema de procesamiento de datos - UTN
